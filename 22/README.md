@@ -6,3 +6,4 @@
 - https://www.youtube.com/watch?v=P4YBg-hwXPo
 - https://4ege.ru/informatika/66696-zadanie-22-ege-po-informatike.html
 - https://www.youtube.com/watch?v=3pvfgA1UTvM
+- придумать решение на питоне(возможно построить граф)
